@@ -1,1 +1,5 @@
 Ainda mais um...
+
+Olá mundo
+sou o ricardo
+estou a aprender a trabalhar com o git

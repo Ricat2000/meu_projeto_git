@@ -3,3 +3,5 @@ Este é um exemplo de um ficheiro
 estou a fazer alteraçãoes ao ficheiro
 
 ALTERAÇÕES EFETUADAS NO BRANCH ´NOVAFEATURE´
+
+ALTERAÇÃO EM MASTER
